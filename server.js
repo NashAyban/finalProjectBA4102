@@ -49,7 +49,7 @@ app.get('/', (req, res) => {
           <strong>Class Section:</strong> BA 4102
         </div>
         <div class="quote">
-          "AAASSSSAAAARRRRR"
+          "Laziness is nothing more than the habit of resting before you get tired. - Jules Renard"
         </div>
       </div>
     </body>
