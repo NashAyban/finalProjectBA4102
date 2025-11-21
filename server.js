@@ -43,13 +43,13 @@ app.get('/', (req, res) => {
       <div class="container">
         <h1>Welcome!</h1>
         <div class="info">
-          <strong>Name:</strong> Your Full Name Here
+          <strong>Name:</strong> Nash Ivan A. Tenorio
         </div>
         <div class="info">
-          <strong>Class Section:</strong> Your Section Here
+          <strong>Class Section:</strong> BA 4102
         </div>
         <div class="quote">
-          "Your Inspirational Quote Here"
+          "AAASSSSAAAARRRRR"
         </div>
       </div>
     </body>
